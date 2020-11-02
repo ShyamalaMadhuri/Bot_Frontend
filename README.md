@@ -16,6 +16,7 @@ This chatbot is designed for our college website. We have 3 different types of u
 10. Details about the research projects handled currently.
 
 Repl.it Link :
+https://repl.it/@shyamalamadhuri/Collegebotfrontend#index.html
 
 Youtube Link :
 https://youtu.be/2TCqkREER0I
